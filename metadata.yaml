@@ -1,0 +1,42 @@
+_repo: Boesman-Stories-Deel-IV-Gemengde-Vertellings-mees-van-n-Awontuurlike-Aard_64676
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Aschenborn, H. A. (Hans Anton)
+    aliases:
+    - Aschenborn, H. Anthon
+    - Aschenborn, Hans Anton
+    birthdate: 1888
+    deathdate: 1931
+    gutenberg_agent_id: '52703'
+    url: http://www.gutenberg.org/2009/agents/52703
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hans_Aschenborn
+    - https://en.wikipedia.org/wiki/Hans_Aschenborn
+creator:
+  author:
+    agent_name: Von Wielligh, G. R. (Gideon Retief)
+    aliases:
+    - Wielligh, G. R. von
+    - Wielligh, Gideon Retief von
+    - Von Wiellich, G. R. (Gideon Retief)
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '51899'
+    url: http://www.gutenberg.org/2009/agents/51899
+    wikipedia: https://af.wikipedia.org/wiki/G.R._von_Wielligh
+description: ''
+gutenberg_issued: '2021-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64676'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Boesman-Stories
+
+  Deel IV. Gemengde Vertellings, mees van ''n Awontuurlike Aard'
+url: http://www.gutenberg.org/ebooks/64676
